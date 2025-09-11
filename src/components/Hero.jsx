@@ -31,7 +31,7 @@ const Hero = () => {
                 </h1>
 
                 <p className="text-base sm:text-lg tracking-wider text-gray-400 max-w-[25rem]">
-                    Hawiyat is a modern DevOps platform that revolutionizes
+                    Hawiyat is an Advanced DevOps platform that revolutionizes
                     the way DevOps is carried out. It automates the development
                     process, making it faster and more efficient.
                 </p>
