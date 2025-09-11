@@ -31,9 +31,7 @@ const Hero = () => {
                 </h1>
 
                 <p className="text-base sm:text-lg tracking-wider text-gray-400 max-w-[25rem]">
-                    Hawiyat is an Advanced DevOps platform that revolutionizes
-                    the way DevOps is carried out. It automates the development
-                    process, making it faster and more efficient.
+                   Test Text
                 </p>
 
                 <div className="flex gap-4 mt-12">
